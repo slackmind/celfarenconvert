@@ -1,2 +1,2 @@
-# celfarnconvert
+# celfarenconvert
 Celsius to Fahrenheit converter 
